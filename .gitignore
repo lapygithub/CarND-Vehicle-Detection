@@ -1,0 +1,10 @@
+.DS_Store*
+*.bz2
+*.zip
+training_data*
+IMG/
+.elasticbeanstalk/config
+*sublime*
+log/*.log
+tmp/
+.ipynb_checkpoints/
